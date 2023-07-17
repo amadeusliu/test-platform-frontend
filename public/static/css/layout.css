@@ -1,0 +1,13 @@
+.myContainer{
+    width:600px;left:400px;position:absolute;
+}
+.left{
+    float: left;
+    background-color: azure;
+  }
+  .leftText{
+    text-align: left;
+  }
+  .set{
+    width: 450px;
+  }

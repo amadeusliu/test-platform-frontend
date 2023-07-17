@@ -1,0 +1,13 @@
+.small{
+    width: 80px;
+}
+.medium{
+    width: 160px;
+}
+.big{
+    width: 240px;
+}
+
+label{
+    width:200px;display:inline-block;
+}
